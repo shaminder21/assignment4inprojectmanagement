@@ -1,0 +1,22 @@
+{
+  "name": "assign4",
+  "version": "1.0.0",
+  "description": "Assignment 4 of peoject management",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaminder21/assignment4inprojectmanagement.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaminder21/assignment4inprojectmanagement/issues"
+  },
+  "homepage": "https://github.com/shaminder21/assignment4inprojectmanagement#readme",
+  "dependencies": {
+    "electron": "^6.0.0"
+  }
+}
