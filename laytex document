@@ -1,0 +1,47 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{assignment4}
+\author{tatlashaminder }
+\date{August 2019}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+\item we create a web site on a LIBRARY MANAGEMENT SYSTEM.I this following like with the help of online web page creating application called flugelhorn-sapphire we created a quick demo of our web site.
+
+\item Git hub link of all the demo project
+\newline
+\usepackage{hyperref}
+https://github.com/shaminder21/assignment4inprojectmanagement
+
+\section{General information}
+ Keep record of different categories (books , journals , newspapers and  magazines ).
+easy way to add new books .
+Provide full information about every single book.
+Different  criteria for searching book. (by title, author , subject , unique bar code).
+Note panel to keep everyone updated .
+Easy to log in and sign up.
+Track the number of book available for one specific book.
+Book reservation  in advance.
+
+\section{TOP USE CASES}
+ Add , Remove , Edit Books & information.
+Search by different catalogs.
+Register new account or delete old .
+Borrow / Reserve / Renew / Return a book.
+\newline
+\section{main actors}
+\newline 
+ Person responsible for modifying books , items , users , check issued , reserved books record. 
+Different users for search by different categories , booking , reserved and return books.
+System for sending notifications about overdue books , canceled and new updates.
+\newline
+\section{related links of LUCID CHART and PREZI}
+\usepackage{hyperref}
+https://www.lucidchart.com/documents/edit/df458db5-6df5-4b28-b726-5cbe1a78d7f1/0?shared=true&
+\newline
+\usepackage{hyperref} https://prezi.com/p/oer5a6adevzn/library-management-system/
+\end{document}
