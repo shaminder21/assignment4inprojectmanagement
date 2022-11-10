@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/shaminder21/assignment4inprojectmanagement#readme",
   "dependencies": {
-    "electron": "^6.0.0"
+    "electron": "^18.3.7"
   }
 }
